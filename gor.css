@@ -13,7 +13,17 @@
 }
 
 .DOWNLOAD a:hover {
-    color:#fff!important;
-    text-decoration:none!important;
-    background:#38cc3a;
+    color: #fff !important;
+    text-decoration: none !important;
+    background: #38cc3a;
+}
+
+body{
+    background: url("devushka-blondinka-les-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*max-height: 100vh;*/
+    /*min-height: 1080px;*/
+
+
 }
