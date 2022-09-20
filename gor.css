@@ -3,12 +3,28 @@
     font-size: 17px;
     font-weight: bold;
     padding-bottom: 67px;
-    padding-left: 474px;
+    padding-left: 357px;
     padding-right: 15px;
     padding-top: 53px;
     margin: -158px;
 }
-
+#fo:hover{
+    color: #e06b00;
+}
+#d1{
+    background: #ff8800;
+    padding: 8px;
+    color: #ffffff;
+    width: 89px;
+    top: 60px;
+    position: absolute;
+    font-weight: bold;
+    border-radius: 6px;
+    left: 203px;
+}
+#d1:hover{
+    color: #c4c4c4;
+}
 
 
 /*body{*/
