@@ -1,3 +1,6 @@
+ul{
+    decoration: none;
+}
 
 #fo {
     font-size: 17px;
@@ -21,11 +24,12 @@
     font-weight: bold;
     border-radius: 6px;
     left: 203px;
+    decoration: none;
 }
 #d1:hover{
     color: #c4c4c4;
 }
-
+А
 
 
 /*body{*/
